@@ -1,0 +1,160 @@
+h1{
+	text-align: center;
+	color:#696969;
+	font-size: 100px;
+	text-transform: uppercase;
+	font-family: 'Rowdies', cursive;
+}
+body{
+	background:url(img/sito.png);
+	color:#696969;
+}
+p,ul,ol{
+	font-size:35px; 
+}
+img{
+	width:1900px
+}
+.img_circle{
+	width: 400px;
+	margin: 100px;
+}
+.div_color{
+	background: white;
+	width: 400px;
+	padding: 20px;
+	margin: 100px;
+	color: black;
+}
+.div_color2{
+	background: white;
+	width: 400px;
+	padding: 20px;
+	margin: 100px;
+	color: black;
+}
+.div_color3{
+	background: white;
+	width: 400px;
+	padding: 20px;
+	margin: 100px;
+	color: black;
+}
+.menu_item a{
+	text-decoration: none;
+	color: white;
+	text-transform:uppercase;
+	font-size: 35px;
+}
+.menu_item{
+	padding: 10px 15px;
+	display: inline-block;
+}
+body{
+	margin: 0px;
+}
+.menu{
+	margin: 0px;
+	padding: 0px;
+}
+.navdar{
+	background: grey;
+	text-align: center;
+}
+.offer{
+	height:800px;
+	background: linear-gradient(#3294a1, lightblue);
+}
+.kreepa{
+		width: 400px;
+		padding-top: 300px;
+		display:inline-block;
+}
+.minecraft-offer{
+	width: 600px;
+	padding-bottom: 500px;
+}
+.offer-img{
+	height: 800px;
+	background: url('img/trava.png') bottom repeat-x;
+	background-size: 30%;
+}
+.info-img{
+	float: left;
+	height: 200px;
+	width: 200px;
+	border-radius: 50%;
+	overflow: hidden;
+	margin: 40px;
+	position: relative;
+}
+.info-img img{
+	height: 100%;
+	width: auto;
+}
+.info{
+	height: 300px;
+	padding-left: 350px;
+	padding-right: 350px;
+}
+.info_text{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-100%);
+	display: none;
+	color: white;
+}
+.info-img:hover{
+	background: #000;
+}
+.info-img:hover .info_text{
+	display: block;
+}
+.info img:hover{
+	opacity: 0.3;
+}
+.monitor{
+	margin: 50px auto;
+	height: 400px;
+	width: 560px;
+	background: url(img/laptop.png);
+	background-size: 100%;
+	padding: 24px;
+}
+footer{
+	background: #212121;
+}
+.footer__link{
+	display: inline-block;
+	height: 55px;
+	width: 55px;
+	background: white;
+	border-radius: 50%;
+	margin: 30px 10px;
+}
+.footer__icons{
+	width: 240px;
+	margin: 0px auto;
+}
+.footer__link img{
+	width: 45px;
+	margin: 5px;
+}
+.footer__author{
+	background: #333232;
+	padding: 10px;
+	border-top: 1px solid #fff;
+}
+.footer__text{
+	color: white;
+	text-align: center;
+	margin:0;
+}
+.div_colors{
+	width: 1500px;
+	margin: auto;
+}
+.div_color{
+	display: inline-block;
+}
